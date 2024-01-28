@@ -1,1 +1,1 @@
-"# Mathematics-for-GameProgramming" 
+# Mathematics-for-GameProgramming 
